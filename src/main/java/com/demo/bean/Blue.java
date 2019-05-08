@@ -21,7 +21,7 @@ public class Blue extends Color<Blue> implements Comparable<Blue>,Serializable{
 		this.name = name;
 	}
 
-	@Override
+
 	public int compareTo(Blue o) {
 		// TODO Auto-generated method stub
 		return 0;
